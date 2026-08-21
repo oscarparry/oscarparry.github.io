@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oscar Parry</title>
+  <link href="https://oscarparry.github.io/"/>
+  <link rel="self" href="https://oscarparry.github.io/feed.xml"/>
+  <id>https://oscarparry.github.io/</id>
+  <updated>2026-07-29T12:00:00Z</updated>
+  <author><name>Oscar Parry</name></author>
+  <entry>
+    <title>Gary Stevenson&#x27;s inequality documentary: capitalism indicted, but is a wealth tax enough?</title>
+    <link href="https://oscarparry.github.io/gary-stevenson-wealth-tax"/>
+    <id>https://oscarparry.github.io/gary-stevenson-wealth-tax</id>
+    <updated>2026-07-29T12:00:00Z</updated>
+    <summary>As an indictment of British capitalism the documentary is excellent. The trouble starts with the remedy: £24 billion is roughly one week of government spending.</summary>
+  </entry>
+  <entry>
+    <title>The Chinese revolutions of 1927 and 1949</title>
+    <link href="https://oscarparry.github.io/the-chinese-revolutions-of-1927-and-1949"/>
+    <id>https://oscarparry.github.io/the-chinese-revolutions-of-1927-and-1949</id>
+    <updated>2026-07-10T12:00:00Z</updated>
+    <summary>A leadoff written for a CWI summer school. Two revolutions, one question: at each stage, what would you have done as a Marxist standing there, with the information available at the time?</summary>
+  </entry>
+  <entry>
+    <title>Gaza, Lebanon and the anti-war movement</title>
+    <link href="https://oscarparry.github.io/gaza-lebanon-and-the-anti-war-movement"/>
+    <id>https://oscarparry.github.io/gaza-lebanon-and-the-anti-war-movement</id>
+    <updated>2026-06-03T12:00:00Z</updated>
+    <summary>Eight pieces written for the Socialist across two and a half years of the war, from the first mass demonstrations in London to the assault on Lebanon. Collected here in reverse order.</summary>
+  </entry>
+  <entry>
+    <title>Marxist economics: the state of the world economy</title>
+    <link href="https://oscarparry.github.io/marxist-economics-world-economy"/>
+    <id>https://oscarparry.github.io/marxist-economics-world-economy</id>
+    <updated>2026-05-26T12:00:00Z</updated>
+    <summary>A leadoff on the world economy. Everything that caused 2008 is still there, and four things have been added since: two major wars, a US-China trade war, protectionism, and sixteen years of low investment.</summary>
+  </entry>
+  <entry>
+    <title>Trump&#x27;s war on the climate</title>
+    <link href="https://oscarparry.github.io/trumps-war-on-the-climate"/>
+    <id>https://oscarparry.github.io/trumps-war-on-the-climate</id>
+    <updated>2026-04-01T12:00:00Z</updated>
+    <summary>Rescinding the endangerment finding would strip the legal basis from US climate regulation. Behind it lies a tactical shift, not a break with what the Democrats did before.</summary>
+  </entry>
+  <entry>
+    <title>China: state intervention, world economic crisis and class struggle</title>
+    <link href="https://oscarparry.github.io/china-state-intervention-and-class-struggle"/>
+    <id>https://oscarparry.github.io/china-state-intervention-and-class-struggle</id>
+    <updated>2025-12-17T12:00:00Z</updated>
+    <summary>An introduction to the discussion on China at Socialism 2025. A Bonapartist state that bred its own capitalist class, and what happens to it when the growth that held the arrangement together runs out.</summary>
+  </entry>
+  <entry>
+    <title>China&#x27;s revolutionary tragedy</title>
+    <link href="https://oscarparry.github.io/chinas-revolutionary-tragedy"/>
+    <id>https://oscarparry.github.io/chinas-revolutionary-tragedy</id>
+    <updated>2025-12-02T12:00:00Z</updated>
+    <summary>Why, despite the courage and determination of the masses, the revolution in China that began one hundred years ago ended in defeat.</summary>
+  </entry>
+  <entry>
+    <title>Capitalist climate hypocrisy: who should pay for the crisis?</title>
+    <link href="https://oscarparry.github.io/capitalist-climate-hypocrisy"/>
+    <id>https://oscarparry.github.io/capitalist-climate-hypocrisy</id>
+    <updated>2024-07-17T12:00:00Z</updated>
+    <summary>Guyana&#x27;s president asks the BBC a fair question. If the West values the forest, is it willing to pay for it? The answer exposes what a market cannot do.</summary>
+  </entry>
+  <entry>
+    <title>Defeating imperialist intervention</title>
+    <link href="https://oscarparry.github.io/defeating-imperialist-intervention"/>
+    <id>https://oscarparry.github.io/defeating-imperialist-intervention</id>
+    <updated>2024-04-02T12:00:00Z</updated>
+    <summary>A review of Anna Reid&#x27;s A Nasty Little War. Meticulously researched, politically bereft: it cannot explain why 180,000 imperialist troops lost.</summary>
+  </entry>
+  <entry>
+    <title>The US must do more to combat carbon inequality in the global economy</title>
+    <link href="https://oscarparry.github.io/carbon-inequality-global-economy"/>
+    <id>https://oscarparry.github.io/carbon-inequality-global-economy</id>
+    <updated>2023-03-30T12:00:00Z</updated>
+    <summary>Winning entry in the LSE Phelan US Centre climate change essay competition. National emissions accounts are the wrong unit: responsibility sits with the corporations and investors who own the emissions, and most of them are American.</summary>
+  </entry>
+</feed>

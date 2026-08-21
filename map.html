@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The map &amp;middot; Oscar Parry</title>
+<meta name="description" content="A timeline of 913 works ranked by how much of what came after depends on them.">
+<link rel="canonical" href="https://oscarparry.github.io/map">
+<meta property="og:title" content="The map &amp;middot; Oscar Parry">
+<meta property="og:description" content="A timeline of 913 works ranked by how much of what came after depends on them.">
+<meta property="og:site_name" content="Oscar Parry">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<link rel="alternate" type="application/atom+xml" href="/feed.xml" title="Oscar Parry">
+<script>
+(function(){try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
+
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="/">Oscar Parry</a>
+  <nav><a href="/writing">Writing</a><a href="/map">The map</a><a href="/about">About</a><button id="themer" type="button" aria-label="Switch between light and dark">&#9789;</button></nav>
+</header>
+<main>
+
+<h1 class="page-title">A materialist map of ideas</h1>
+<p class="lede">913 works on one timeline, ranked by how much of what came after
+depends on them, with 1,273 connections drawn between them and 103 movements
+banded underneath.</p>
+<p>Six columns run down the page, one for each domain: philosophy, science and
+mathematics, political economy, politics and the movement, literature, and art,
+music and architecture. A work sits at its date and at a height set by its weight,
+which is an estimate of how much of what followed depends on it. Lines are typed
+connections, and the dashed ones are the arises-from relations, where a work is
+there because the conditions that produced it are there. Click a movement bar and
+its works light up across every column. Selections go into the address bar, so a
+particular argument on the map is something you can send someone.</p>
+<p>It is built from a spreadsheet by a script, and the whole thing rebuilds with
+one command, so it changes as the reading does.</p>
+<p><a class="button" href="/history-map.html">Open the map full screen &rarr;</a></p>
+<iframe class="mapframe" src="/history-map.html" title="A materialist map of ideas" loading="lazy"></iframe>
+<p class="backlink"><a href="/writing">All writing</a></p>
+
+</main>
+<footer class="site">
+  <p>Oscar Parry. Views here are my own.</p>
+  <p><a href="/feed.xml">Feed</a> &middot; <a href="https://github.com/oscarparry" target="_blank" rel="noopener">GitHub</a></p>
+</footer>
+<script>
+(function(){
+  var b=document.getElementById('themer');
+  if(!b)return;
+  b.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme');
+    if(!cur){cur=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}
+    var next=cur==='dark'?'light':'dark';
+    document.documentElement.setAttribute('data-theme',next);
+    try{localStorage.setItem('theme',next);}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
